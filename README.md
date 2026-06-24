@@ -61,8 +61,3 @@ This project evaluates whether the residuals from a spatial regression model are
 - Prediction and residual analysis
 - Spatial autocorrelation testing with Moran’s I
 - Raster prediction mapping
-
-
-## CV Bullet
-
-Fitted and validated a spatial regression model in R using raster predictors, then assessed spatial autocorrelation in validation residuals with Moran’s I.
